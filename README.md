@@ -3,7 +3,7 @@ Step 1: Download the Face Landmarks Model
 
 Visit the [facial-landmarks-recognition](https://github.com/italojs/facial-landmarks-recognition/tree/master) repository.
 
-Find the file named shape_predictor_68_face_landmarks.dat in the repository's file structure.
+Find the file named [shape_predictor_68_face_landmarks.dat](https://github.com/italojs/facial-landmarks-recognition/blob/master/shape_predictor_68_face_landmarks.dat) in the repository's file structure.
 
 On the file's page, click the Download button or select the Raw button to view the file in your browser, then right-click and choose "Save As" to download the file.
 
