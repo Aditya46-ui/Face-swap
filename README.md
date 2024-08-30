@@ -11,3 +11,9 @@ Ensure that the file is saved in your project directory or in a specific folder 
 
 Once you have successfully downloaded and placed the shape_predictor_68_face_landmarks.dat file in the correct location, you are ready to proceed with using the facial landmarks recognition model.
 
+
+Step 2: Download the Code.ipynb file
+
+Step 3: Download the images provided or you can use your own images too.
+
+Step 4: Make sure the files are in the correct directories and run the code.
