@@ -1,7 +1,7 @@
 # Face-swap
 Step 1: Download the Face Landmarks Model
 
-Visit the facial-landmarks-recognition repository.
+Visit the [facial-landmarks-recognition](https://github.com/italojs/facial-landmarks-recognition/tree/master) repository.
 
 Find the file named shape_predictor_68_face_landmarks.dat in the repository's file structure.
 
